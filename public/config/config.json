@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x91c35E74402D1a269F3Ed85A3A9Ef8EC69028eF0",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x91c35E74402D1a269F3Ed85A3A9Ef8EC69028eF0",
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "",
   "NETWORK": {
-    "NAME": "Etherium",
-    "SYMBOL": "ETH",
-    "ID": 4
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
   },
   "NFT_NAME": "Cookie Peeps",
   "SYMBOL": "CP",
   "MAX_SUPPLY": 1000,
-  "WEI_COST": 5000000000000000,
-  "DISPLAY_COST": 0.005,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
   "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/cookie-peeps",
